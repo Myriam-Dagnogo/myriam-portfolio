@@ -1,0 +1,191 @@
+.igs-ulpadding-0{
+	padding: 0px;
+	}
+	.igs-ulmargin-0{
+		margin:0px;
+	}
+.igs-ullst-none{
+	list-style-type: none;
+}
+
+	
+.igs-lidisplay-ib{
+	display:inline-block;
+}
+.igs-limargin-0{
+	margin: 0px;
+}
+.igs-lipadding-0{
+	padding: 0px;
+}
+.igs-liwidth-100{
+	width: 100px;
+}
+.igs-liheight-40{
+	height: 40px;
+}
+.igs-lita-center{
+	text-align: center;
+}
+.igs-liline-40{
+	line-height: 40px;
+}
+
+
+.igs-adisplay-block{
+	display: block;
+}
+.igs-atd-none{
+	text-decoration: none;
+}
+.igs-acolor-black{
+	color:rgb(255, 5, 5);
+}
+
+
+.igs-section1bgi-url{
+	background-image: url(../image/cv.jpg );
+	
+	width: 100%;
+	height: 800px;
+}
+.igs-section1bgr-nr{
+	background-repeat: no-repeat;
+}
+.igs-section1bgs-cover{
+	background-size:cover;
+}
+.igs-section1color-white{
+	color: rgb(249, 251, 252) ;
+}
+
+
+.igs-h2font-palatino{
+	font-family: Palatino, 'Palatino Linotype', serif;
+}
+.igs-h2ta-center{
+	text-align: center;
+}
+.igs-h1ta-center{
+	text-align: center;
+}
+.igs-h1color-aqua{
+	color: rgba(80, 21, 190, 0.514);
+}
+.igs-fs-italic{
+	font-style: italic;
+}
+
+
+h1{
+    color: violet;
+}
+
+/*section2*/
+.igs-section2bgi-url{
+	background-image: url(../image/encourage2.jpg);
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 600px;
+}  
+.igs-section2bgs-cover{
+	background-size:cover;
+}
+#igs-h1section2
+
+
+/*section3*/
+.igs-h4bgc{
+	background-color: rgb(26, 230, 209) ;
+	border: 1px solid #000;
+}
+.igs-h4ta{
+	text-align: center;
+}
+.igs-h4br{
+	border-radius: 3px;
+}
+.igs-h4width{
+	width: 120px;
+}
+.igs-h4padding{
+	padding: 15px;
+}
+.igs-h4float{
+	float: center;
+}
+.igs-h4td{
+	text-decoration:none;
+}
+.igs-h4lst{
+	list-style-type: none;
+}
+
+
+
+.igs-centercolor{
+	color: tomato;
+}
+	
+
+.igs-centerhc  : hover {
+	color: skyblue;
+}
+.igs-h2c-red{
+    color: #ff0000;
+}
+
+.igs-section3bgi-url{
+	background-image: url(../image/work1.png);
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 600px;
+}  
+.igs-section3bgs-cover{
+	background-size:cover;
+}
+#igs-h1section3{
+	text-align: center;
+	color: black;
+	background-color: darkgray;
+}
+
+/*section4*/
+.igs-section4bgi-url{
+	background-image: url(../image/client1.jpg);
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 800px;
+}  
+.igs-section4bgs-cover{
+	background-size:cover;
+}
+
+#igs-h1section4{
+	text-align: center;
+	color: #000;
+	background-color: darkgray;
+}
+
+/*section5*/
+span{
+    color: tomato;
+}
+.igs-section5bgi-url{
+	background-image: url(../image/contact1.png);
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 900px;
+}  
+.igs-section5bgs-cover{
+	background-size:cover;
+}
+#igs-h1-section5{
+	text-align: center;
+	color: black;
+	background-color: darkgray;
+}
